@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Copy assets to one folder."
-        run: ls  && pwd #bash build.sh
+        run: cd .. && ls  && pwd #bash build.sh
       #- name: "Deploy"
         #uses: JamesIves/github-pages-deploy-action@v4.2.5
         #with:
