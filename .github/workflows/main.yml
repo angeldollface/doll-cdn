@@ -1,4 +1,4 @@
-name: LUME CI
+name: CDN CI
 on:
   push:
     branches: [ main ]
@@ -6,8 +6,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Copy assets to one folder.
-        run: mkdir cdn && mv -f apis cdn && mv -f audio cdn && mv -f css cdn && mv -f fonts cdn && mv -f images cdn && mv -f models cdn && mv -f index.html cdn
+      - name: "Copy assets to one folder."
+        run: bash build.sh
         
       - name: "Deploy"
         uses: JamesIves/github-pages-deploy-action@v4.2.5
