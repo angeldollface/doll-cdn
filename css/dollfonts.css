@@ -3,6 +3,18 @@
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Aileron.otf') format('opentype');
 }
 @font-face {
+    font-family: 'RobotoFlex';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/RobotoFlex.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Apercu';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/Apercu.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Osaka';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/Osaka.otf') format('opentype');
+}
+@font-face {
     font-family: 'CourierNew';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/CourierNew.otf') format('opentype');
 }
@@ -93,6 +105,18 @@
 @font-face {
     font-family: 'Aileron';
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Aileron.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'RobotoFlex';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/RobotoFlex.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Apercu';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Apercu.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Osaka';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Osaka.ttf') format('truetype');
 }
 @font-face {
     font-family: 'CourierNew';
@@ -197,6 +221,18 @@
 @font-face {
     font-family: 'Aileron';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/Aileron.woff') format('woff');
+}
+@font-face {
+    font-family: 'RobotoFlex';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/RobotoFlex.woff') format('woff');
+}
+@font-face {
+    font-family: 'Apercu';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/Apercu.woff') format('woff');
+}
+@font-face {
+    font-family: 'Osaka';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/Osaka.woff') format('woff');
 }
 @font-face {
     font-family: 'CourierNew';
@@ -365,4 +401,16 @@
 @font-face {
     font-family: 'CormorantItalic';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff2/CormorantItalic.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'RobotoFlex';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/RobotoFlex.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Apercu';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Apercu.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Osaka';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Osaka.woff2') format('woff2');
 }
