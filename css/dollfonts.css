@@ -1,3 +1,28 @@
+/* OTF FONTS START */
+@font-face {
+    font-family: 'Aztec';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/Aztec.otf') format('opentype');
+}
+@font-face {
+    font-family: 'SpyDolls';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/SpyDolls.otf') format('opentype');
+}
+@font-face {
+    font-family: 'RussianDollMaker';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/RussianDollMaker.otf') format('opentype');
+}
+@font-face {
+    font-family: 'SymbolFont';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/SymbolFont.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Vogue';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/Vogue.otf') format('opentype');
+}
+@font-face {
+    font-family: 'VoodooDolls';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/VoodooDolls.otf') format('opentype');
+}
 @font-face {
     font-family: 'Aileron';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Aileron.otf') format('opentype');
@@ -101,6 +126,33 @@
 @font-face {
     font-family: 'VT323';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/VT323.otf') format('opentype');
+}
+/* OTF FONTS END */
+
+/* TTF FONTS START */
+@font-face {
+    font-family: 'Aztec';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Aztec.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SpyDolls';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/SpyDolls.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'RussianDollMaker';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/RussianDollMaker.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SymbolFont';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/SymbolFont.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Vogue';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Vogue.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'VoodooDolls';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/VoodooDolls.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Aileron';
@@ -206,6 +258,33 @@
     font-family: 'VT323';
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/VT323.ttf') format('truetype');
 }
+/* TTF FONTS END */
+
+/* WOFF FONTS START */
+@font-face {
+    font-family: 'Aztec';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/Aztec.woff') format('woff');
+}
+@font-face {
+    font-family: 'SpyDolls';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/SpyDolls.woff') format('woff');
+}
+@font-face {
+    font-family: 'RussianDollMaker';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/RussianDollMaker.woff') format('woff');
+}
+@font-face {
+    font-family: 'SymbolFont';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/SymbolFont.woff') format('woff');
+}
+@font-face {
+    font-family: 'Vogue';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/Vogue.woff') format('woff');
+}
+@font-face {
+    font-family: 'VoodooDolls';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/VoodooDolls.woff') format('woff');
+}
 @font-face {
     font-family: 'Triest';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/Triest.woff') format('woff');
@@ -309,6 +388,33 @@
 @font-face {
     font-family: 'VT323';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/VT323.woff') format('woff');
+}
+/* WOFF FONTS END */
+
+/* WOFF2 FONTS START */
+@font-face {
+    font-family: 'Aztec';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Aztec.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'SpyDolls';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/SpyDolls.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'RussianDollMaker';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/RussianDollMaker.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'SymbolFont';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/SymbolFont.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Vogue';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Vogue.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'VoodooDolls';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/VoodooDolls.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Aileron';
@@ -414,3 +520,4 @@
     font-family: 'Osaka';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Osaka.woff2') format('woff2');
 }
+/* WOFF2 FONTS END */
