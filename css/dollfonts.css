@@ -127,6 +127,10 @@
     font-family: 'VT323';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/VT323.otf') format('opentype');
 }
+@font-face {
+    font-family: 'Lobster';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/Lobster.otf') format('opentype');
+}
 /* OTF FONTS END */
 
 /* TTF FONTS START */
@@ -257,6 +261,10 @@
 @font-face {
     font-family: 'VT323';
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/VT323.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lobster';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Lobster.otf') format('truetype');
 }
 /* TTF FONTS END */
 
@@ -389,6 +397,10 @@
     font-family: 'VT323';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/VT323.woff') format('woff');
 }
+@font-face {
+    font-family: 'Lobster';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/Lobster.woff') format('woff');
+}
 /* WOFF FONTS END */
 
 /* WOFF2 FONTS START */
@@ -519,5 +531,9 @@
 @font-face {
     font-family: 'Osaka';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Osaka.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Lobster';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Lobster.woff2') format('woff2');
 }
 /* WOFF2 FONTS END */
