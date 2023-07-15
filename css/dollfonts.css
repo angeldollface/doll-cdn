@@ -4,6 +4,10 @@
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Aztec.otf') format('opentype');
 }
 @font-face {
+    font-family: 'Onest';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/Onest.otf') format('opentype');
+}
+@font-face {
     font-family: 'SpyDolls';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/SpyDolls.otf') format('opentype');
 }
@@ -134,6 +138,10 @@
 /* OTF FONTS END */
 
 /* TTF FONTS START */
+@font-face {
+    font-family: 'Onest';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Onest.ttf') format('truetype');
+}
 @font-face {
     font-family: 'Aztec';
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Aztec.ttf') format('truetype');
@@ -270,6 +278,10 @@
 
 /* WOFF FONTS START */
 @font-face {
+    font-family: 'Onest';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/Onest.woff') format('woff');
+}
+@font-face {
     font-family: 'Aztec';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/Aztec.woff') format('woff');
 }
@@ -404,6 +416,10 @@
 /* WOFF FONTS END */
 
 /* WOFF2 FONTS START */
+@font-face {
+    font-family: 'Onest';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Onest.woff2') format('woff2');
+}
 @font-face {
     font-family: 'Aztec';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Aztec.woff2') format('woff2');
