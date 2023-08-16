@@ -1,0 +1,39 @@
+/*
+PEEKABOO by Alexander Abraham a.k.a. "Angel Dollface".
+Licensed under the MIT license.
+*/
+
+html{
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+body{
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  background-color: #222222;
+}
+img {
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  object-fit: fill;
+  background-color: #222222;
+}
