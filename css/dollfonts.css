@@ -4,6 +4,14 @@
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Aztec.otf') format('opentype');
 }
 @font-face {
+    font-family: 'SCP-Medium';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/SCP-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'SCP-Regular';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/SCP-Regular.otf') format('opentype');
+}
+@font-face {
     font-family: 'Onest';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Onest.otf') format('opentype');
 }
@@ -138,6 +146,14 @@
 /* OTF FONTS END */
 
 /* TTF FONTS START */
+@font-face {
+    font-family: 'SCP-Medium';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/SCP-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'SCP-Regular';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/SCP-Regular.ttf') format('truetype');
+}
 @font-face {
     font-family: 'Onest';
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Onest.ttf') format('truetype');
@@ -278,6 +294,14 @@
 
 /* WOFF FONTS START */
 @font-face {
+    font-family: 'SCP-Medium';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/SCP-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'SCP-Regular';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/SCP-Regular.woff') format('woff');
+}
+@font-face {
     font-family: 'Onest';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/Onest.woff') format('woff');
 }
@@ -416,6 +440,14 @@
 /* WOFF FONTS END */
 
 /* WOFF2 FONTS START */
+@font-face {
+    font-family: 'SCP-Medium';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/SCP-Medium.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'SCP-Regular';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/SCP-Regular.woff2') format('woff2');
+}
 @font-face {
     font-family: 'Onest';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Onest.woff2') format('woff2');
