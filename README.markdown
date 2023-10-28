@@ -59,7 +59,7 @@ The following fonts are available:
 To use these in your own projects, simply specify the font you would like to use like this:
 
 ```CSS
-fontfamily: "name-of-font";
+font-family: "name-of-font";
 ```
 
 `name-of-font` specifies any of the names from the list above. These fonts should work across multiple browsers since this "CDN" contains the fonts in the WOFF, WOFF2, TTF, and OTF formats each.
