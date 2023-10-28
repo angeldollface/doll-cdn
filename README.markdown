@@ -56,7 +56,7 @@ The following fonts are available:
 - `VT323`
 - `Lobster`
 
-To use these in your own projects, simply specify the font you would like to use like this:
+To use these in your own projects simply specify the font you would like to use like this:
 
 ```CSS
 font-family: "name-of-font";
