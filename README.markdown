@@ -6,7 +6,63 @@
 
 ## ABOUT :books:
 
-Since my main `.github.io` repository was getting a bit thicc, I thought I'd move all static assets to a different repository so I can keep the repository for my main website as light as possible. If I want to change the design at some point in the future, this might come in handy.
+Since my main `.github.io` repository was getting a bit thicc, I thought I'd move all static assets to a different repository so I can keep the repository for my main website as light as possible. If I want to change the design at some point in the future, this might come in handy. This CDN contains font assets, 3D assets, image assets, and other assets a doll might need.
+
+## FONTS :black_nib:
+
+You can include all fonts from this "CDN" by adding this line to your HTML code:
+
+```HTML
+<link rel="stylesheet" href="https://angeldollface.art/doll-cdn/css/dollfonts.css" type="text/css"/>
+```
+
+The following fonts are available:
+
+- `Aztec`
+- `Retrotype`
+- `SCP-Medium`
+- `SCP-Regular`
+- `Onest`
+- `SpyDolls`
+- `RussianDollmaker`
+- `SymbolFont`
+- `Vogue`
+- `VoodoDolls`
+- `Aileron`
+- `RobotoFlex`
+- `Apercu`
+- `Osaka`
+- `CourierNew`
+- `DotMatrix`
+- `Raleway`
+- `CircularMedium`
+- `Triest`
+- `Drip`
+- `CormorantItalic`
+- `Couture`
+- `Cyberpunk`
+- `FiraCode-Regular`
+- `FreshLychee`
+- `Garamond`
+- `GaramondItalic`
+- `MC`
+- `Merriweather-Regular`
+- `MMD`
+- `OrangeSlice`
+- `Ostrich`
+- `OstrichThin`
+- `PlayfairDisplay-Regular`
+- `PSB`
+- `VT323`
+- `Lobster`
+
+To use these in your own projects, simply specify the font you would like to use like this:
+
+```CSS
+fontfamily: "name-of-font";
+```
+
+`name-of-font` specifies any of the names from the list above. These fonts should work across multiple browsers since this "CDN" contains the fonts in the WOFF, WOFF2, TTF, and OTF formats each.
 
 ## NOTE :scroll:
 
