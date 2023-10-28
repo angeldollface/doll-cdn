@@ -10,7 +10,7 @@ Since my main `.github.io` repository was getting a bit thicc, I thought I'd mov
 
 ## FONTS :black_nib:
 
-You can include all fonts from this "CDN" by adding this line to your HTML code:
+You can include any of the fonts from this "CDN" by adding this line to your HTML code:
 
 ```HTML
 <link rel="stylesheet" href="https://angeldollface.art/doll-cdn/css/dollfonts.css" type="text/css"/>
