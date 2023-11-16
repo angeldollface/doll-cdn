@@ -4,6 +4,10 @@
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Aztec.otf') format('opentype');
 }
 @font-face {
+    font-family: 'CherieBomb';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/CherieBomb.otf') format('opentype');
+}
+@font-face {
     font-family: 'Retrotype';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Retrotype.otf') format('opentype');
 }
@@ -171,6 +175,10 @@
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Aztec.ttf') format('truetype');
 }
 @font-face {
+    font-family: 'CherieBomb';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/CherieBomb.ttf') format('truetype');
+}
+@font-face {
     font-family: 'SpyDolls';
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/SpyDolls.ttf') format('truetype');
 }
@@ -322,6 +330,10 @@
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/Aztec.woff') format('woff');
 }
 @font-face {
+    font-family: 'CherieBomb';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/CherieBomb.woff') format('woff');
+}
+@font-face {
     font-family: 'SpyDolls';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/SpyDolls.woff') format('woff');
 }
@@ -471,6 +483,10 @@
 @font-face {
     font-family: 'Aztec';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Aztec.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'CherieBomb';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/CherieBomb.woff2') format('woff2');
 }
 @font-face {
     font-family: 'SpyDolls';

@@ -55,6 +55,7 @@ The following fonts are available:
 - `PSB`
 - `VT323`
 - `Lobster`
+- `CherieBomb`
 
 To use these in your own projects simply specify the font you would like to use like this:
 
