@@ -8,6 +8,10 @@
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/CherieBomb.otf') format('opentype');
 }
 @font-face {
+    font-family: 'Blackiron';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/Blackiron.otf') format('opentype');
+}
+@font-face {
     font-family: 'Retrotype';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Retrotype.otf') format('opentype');
 }
@@ -161,6 +165,10 @@
 @font-face {
     font-family: 'Retrotype';
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Retrotype.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Blackiron';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Blackiron.ttf') format('truetype');
 }
 @font-face {
     font-family: 'SCP-Regular';
@@ -318,6 +326,10 @@
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/Retrotype.woff') format('woff');
 }
 @font-face {
+    font-family: 'Blackiron';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/Blackiron.woff') format('woff');
+}
+@font-face {
     font-family: 'SCP-Regular';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/SCP-Regular.woff') format('woff');
 }
@@ -471,6 +483,10 @@
 @font-face {
     font-family: 'Retrotype';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Retrotype.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Blackiron';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Blackiron.woff2') format('woff2');
 }
 @font-face {
     font-family: 'SCP-Regular';
