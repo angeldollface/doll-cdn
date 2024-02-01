@@ -57,6 +57,12 @@ The following fonts are available:
 - `Lobster`
 - `CherieBomb`
 - `Blackiron`
+- `Garota`
+- `easy`
+- `milk`
+- `posi`
+- `benegraphic`
+- `atriskyouth`
 
 To use these in your own projects simply specify the font you would like to use like this:
 

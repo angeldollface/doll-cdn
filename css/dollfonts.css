@@ -1,5 +1,29 @@
 /* OTF FONTS START */
 @font-face {
+    font-family: 'atriskyouth';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/atriskyouth.otf') format('opentype');
+}
+@font-face {
+    font-family: 'benegraphic';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/benegraphic.otf') format('opentype');
+}
+@font-face {
+    font-family: 'easy';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/easy.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Garota';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/Garota.otf') format('opentype');
+}
+@font-face {
+    font-family: 'milk';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/milk.otf') format('opentype');
+}
+@font-face {
+    font-family: 'posi';
+    src: url('https://angeldollface.art/doll-cdn/fonts/otf/posi.otf') format('opentype');
+}
+@font-face {
     font-family: 'Aztec';
     src: url('https://angeldollface.art/doll-cdn/fonts/otf/Aztec.otf') format('opentype');
 }
@@ -158,6 +182,30 @@
 /* OTF FONTS END */
 
 /* TTF FONTS START */
+@font-face {
+    font-family: 'atriskyouth';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/atriskyouth.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'benegraphic';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/benegraphic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'easy';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/easy.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Garota';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/Garota.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'milk';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/milk.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'posi';
+    src: url('https://angeldollface.art/doll-cdn/fonts/ttf/posi.ttf') format('truetype');
+}
 @font-face {
     font-family: 'SCP-Medium';
     src: url('https://angeldollface.art/doll-cdn/fonts/ttf/SCP-Medium.ttf') format('truetype');
@@ -318,6 +366,30 @@
 
 /* WOFF FONTS START */
 @font-face {
+    font-family: 'atriskyouth';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/atriskyouth.woff') format('woff');
+}
+@font-face {
+    font-family: 'benegraphic';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/benegraphic.woff') format('woff');
+}
+@font-face {
+    font-family: 'easy';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/easy.woff') format('woff');
+}
+@font-face {
+    font-family: 'Garota';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/Garota.woff') format('woff');
+}
+@font-face {
+    font-family: 'milk';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/milk.woff') format('woff');
+}
+@font-face {
+    font-family: 'posi';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff/posi.woff') format('woff');
+}
+@font-face {
     font-family: 'SCP-Medium';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff/SCP-Medium.woff') format('woff');
 }
@@ -476,6 +548,30 @@
 /* WOFF FONTS END */
 
 /* WOFF2 FONTS START */
+@font-face {
+    font-family: 'atriskyouth';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/atriskyouth.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'benegraphic';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/benegraphic.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'easy';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/easy.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Garota';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/Garota.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'milk';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/milk.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'posi';
+    src: url('https://angeldollface.art/doll-cdn/fonts/woff2/posi.woff2') format('woff2');
+}
 @font-face {
     font-family: 'SCP-Medium';
     src: url('https://angeldollface.art/doll-cdn/fonts/woff2/SCP-Medium.woff2') format('woff2');
