@@ -1,5 +1,9 @@
 /* OTF FONTS START */
 @font-face {
+    font-family: 'BebasNeue';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/otf/BebasNeue.otf') format('opentype');
+}
+@font-face {
     font-family: 'atriskyouth';
     src: url('https://angeldollface.boo/doll-cdn/fonts/otf/atriskyouth.otf') format('opentype');
 }
@@ -182,6 +186,10 @@
 /* OTF FONTS END */
 
 /* TTF FONTS START */
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/BebasNeue.ttf') format('truetype');
+}
 @font-face {
     font-family: 'atriskyouth';
     src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/atriskyouth.ttf') format('truetype');
@@ -366,6 +374,10 @@
 
 /* WOFF FONTS START */
 @font-face {
+    font-family: 'BebasNeue';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/woff/BebasNeue.woff') format('woff');
+}
+@font-face {
     font-family: 'atriskyouth';
     src: url('https://angeldollface.boo/doll-cdn/fonts/woff/atriskyouth.woff') format('woff');
 }
@@ -548,6 +560,10 @@
 /* WOFF FONTS END */
 
 /* WOFF2 FONTS START */
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/woff2/BebasNeue.woff2') format('woff2');
+}
 @font-face {
     font-family: 'atriskyouth';
     src: url('https://angeldollface.boo/doll-cdn/fonts/woff2/atriskyouth.woff2') format('woff2');
