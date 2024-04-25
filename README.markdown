@@ -16,6 +16,8 @@ You can include any of the fonts from this "CDN" by adding this line to your HTM
 <link rel="stylesheet" href="https://angeldollface.boo/doll-cdn/css/dollfonts.css" type="text/css"/>
 ```
 
+Warning: The fonts used, I collected over a long period of time. If you are the creator of any of the fonts and you object to me publishing them in this way, please open an issue and let me know.
+
 The following fonts are available:
 
 - `Aztec`
