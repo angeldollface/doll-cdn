@@ -6,7 +6,7 @@
 
 ## ABOUT :books:
 
-Since my main `.github.io` repository was getting a bit thicc, I thought I'd move all static assets to a different repository so I can keep the repository for my main website as light as possible. If I want to change the design at some point in the future, this might come in handy. This CDN contains font assets, 3D assets, image assets, and other assets a doll might need.
+Since my main `.github.io` repository was getting a bit thicc, I thought I'd move all static assets to a different repository so I can keep the repository for my main website as light as possible. If I want to change the design at some point in the future, this might come in handy. This CDN contains font assets, 3D assets, image assets, and other assets a doll might need. Anyone using assets from this repo without my authorization will face legal consequences.
 
 ## FONTS :black_nib:
 
