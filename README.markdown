@@ -65,6 +65,8 @@ The following fonts are available:
 - `posi`
 - `benegraphic`
 - `atriskyouth`
+- `Edda`
+- `KingthingsExeter`
 
 To use these in your own projects simply specify the font you would like to use like this:
 
