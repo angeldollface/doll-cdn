@@ -1,4 +1,12 @@
 /* OTF FONTS START */
+@font-face{
+	font-family: 'Edda';
+	src: url('https://angeldollface.boo/doll-cdn/fonts/otf/Edda.otf') format('opentype');
+}
+@font-face {
+	font-family: 'KingthingsExeter';
+	src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/KingthingsExter.otf') format('opentype');
+}
 @font-face {
 	font-family: 'Pragmatica';
 	src: url('https://angeldollface.boo/doll-cdn/fonts/otf/Pragmatica.otf') format('opentype');
