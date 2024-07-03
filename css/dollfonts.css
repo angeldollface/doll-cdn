@@ -1,11 +1,11 @@
 /* OTF FONTS START */
 @font-face{
-	font-family: 'Edda';
-	src: url('https://angeldollface.boo/doll-cdn/fonts/otf/Edda.otf') format('opentype');
+    font-family: 'Edda';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/otf/Edda.otf') format('opentype');
 }
 @font-face {
-	font-family: 'KingthingsExeter';
-	src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/KingthingsExter.otf') format('opentype');
+    font-family: 'KingthingsExeter';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/otf/KingthingsExter.otf') format('opentype');
 }
 @font-face {
 	font-family: 'Pragmatica';
@@ -198,9 +198,17 @@
 /* OTF FONTS END */
 
 /* TTF FONTS START */
+@font-face{
+    font-family: 'Edda';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/Edda.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'KingthingsExeter';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/KingthingsExter.ttf') format('truetype');
+}
 @font-face {
 	font-family: 'Pragmatica';
-	src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/Pragmatica.ttf') format('otruetype');
+	src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/Pragmatica.ttf') format('truetype');
 @font-face {
     font-family: 'BebasNeue';
     src: url('https://angeldollface.boo/doll-cdn/fonts/ttf/BebasNeue.ttf') format('truetype');
@@ -388,7 +396,15 @@
 /* TTF FONTS END */
 
 /* WOFF FONTS START */
-font-face {
+@font-face{
+    font-family: 'Edda';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/woff/Edda.woff') format('woff');
+}
+@font-face {
+    font-family: 'KingthingsExeter';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/woff/KingthingsExter.woff') format('woff');
+}
+@font-face {
     font-family: 'Pragmatica';
     src: url('https://angeldollface.boo/doll-cdn/fonts/woff/Pragmatica.woff') format('woff');
 }
@@ -579,6 +595,14 @@ font-face {
 /* WOFF FONTS END */
 
 /* WOFF2 FONTS START */
+@font-face{
+    font-family: 'Edda';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/woff2/Edda.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'KingthingsExeter';
+    src: url('https://angeldollface.boo/doll-cdn/fonts/woff2/KingthingsExter.woff2') format('woff2');
+}
 @font-face {
     font-family: 'Pragmatica';
     src: url('https://angeldollface.boo/doll-cdn/fonts/woff2/Pragmatica.woff2') format('woff2');
