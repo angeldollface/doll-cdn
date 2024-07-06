@@ -6,3 +6,4 @@ mv fonts cdn
 mv images cdn
 mv models cdn
 mv index.html cdn
+mv javascript cdn
